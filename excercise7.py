@@ -1,12 +1,4 @@
-# HEALTHY PROGRAMMER (9am-5pm)
-# WATER - water.mp3 3.5 l in 9am to 5pm time then he/she would input- every 30 mins
-# Y for drank and N for not drank and then enter that in a text file log with time
-# EYES - eyes.mp3 every 30mins in 9am to 5pm time then he/she would input - 25mins
-# #Y for done and N for not done and then enter that in a text file log with time
-# PHYSICAL ACTIVITY- physical.mp3 every 45mins in 9am to 5pm time then he/she would input -45mins
-# #Y for done and N for not done and then enter that in a text file log with time
-# pygame module for playing mp3 - 60 mins
-# you will have to manage the clashes between the remainders play at same time
+# HEALTHY PROGRAMMER 
 
 from pygame import mixer
 from datetime import datetime
